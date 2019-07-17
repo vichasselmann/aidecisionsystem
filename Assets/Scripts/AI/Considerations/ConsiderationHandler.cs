@@ -2,7 +2,6 @@
 
 namespace AI
 {
-
     public class ConsiderationHandler : ScriptableObject
     {
         public Consideration[] considerations;

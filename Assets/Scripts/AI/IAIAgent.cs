@@ -1,11 +1,7 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-namespace AI
+﻿namespace AI
 {
-    public interface IAIAgent
-    {
-
-    }
+	/// <summary>
+	/// Base interface for all the AI Agent
+	/// </summary>
+	public interface IAIAgent{ }
 }

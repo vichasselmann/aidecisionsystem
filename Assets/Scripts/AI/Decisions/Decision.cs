@@ -50,6 +50,5 @@ namespace AI
 
             return finalScore;
         }
-
     }
 }
